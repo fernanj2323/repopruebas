@@ -1,8 +1,7 @@
 # repopruebas  
 
 1. Clonamos el proyecto en local 
-git clone https://github.com/fernanj2323/repopruebashttps://github.com/fernanj2323/repopruebas
-
+git clone https://github.com/fernanj2323/repopruebas
 
 # Vemos los cambios que estan por subir 
 2. git status 
